@@ -1,7 +1,7 @@
 {
   "name": "node-msoffice-pdf",
   "version": "0.0.7",
-  "description": "Exports various microsoft office formats to pdfs",
+  "description": "Exports various microsoft office formats to pdfs - With Latest edge-js",
   "author": "Stefanos Kornilios Mitsis Poiitidis (skmp@nillware.com)",
   "files": [ "office.cs", "lib.js" ],
   "main": "lib.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/skmp/node-msoffice-pdf"
+    "url": "https://github.com/ta6ish/node-msoffice-pdf"
   },
   "keywords": [
     "office",
     "pdf"
   ],
   "dependencies": {
-    "edge" : "*"
+    "edge-js" : "*"
   },
   "devDependencies": {
     "node-uuid" : "*"
