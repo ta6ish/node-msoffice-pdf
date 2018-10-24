@@ -8,7 +8,7 @@ Depends on office 2013 + windows.
 
 ## Installation
 
-   npm install node-msoffice-pdf
+   npm install ta6ish/node-msoffice-pdf
   
 ## Usage
 ```ruby
